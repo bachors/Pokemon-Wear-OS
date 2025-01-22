@@ -1,0 +1,866 @@
+[
+  {
+    "name": "Raichu",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/026.png",
+    "weight": "46.3",
+    "height": "28",
+    "slug": "raichu",
+    "id": "26"
+  },
+  {
+    "name": "Abra",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/063.png",
+    "weight": "43",
+    "height": "35",
+    "slug": "abra",
+    "id": "63"
+  },
+  {
+    "name": "Kadabra",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/064.png",
+    "weight": "124.6",
+    "height": "51",
+    "slug": "kadabra",
+    "id": "64"
+  },
+  {
+    "name": "Alakazam",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/065.png",
+    "weight": "105.8",
+    "height": "47",
+    "slug": "alakazam",
+    "id": "65"
+  },
+  {
+    "name": "Ponyta",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/077.png",
+    "weight": "52.9",
+    "height": "31",
+    "slug": "ponyta",
+    "id": "77"
+  },
+  {
+    "name": "Rapidash",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/078.png",
+    "weight": "176.4",
+    "height": "67",
+    "slug": "rapidash",
+    "id": "78"
+  },
+  {
+    "name": "Slowpoke",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/079.png",
+    "weight": "79.4",
+    "height": "47",
+    "slug": "slowpoke",
+    "id": "79"
+  },
+  {
+    "name": "Slowbro",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/080.png",
+    "weight": "155.4",
+    "height": "63",
+    "slug": "slowbro",
+    "id": "80"
+  },
+  {
+    "name": "Drowzee",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/096.png",
+    "weight": "71.4",
+    "height": "39",
+    "slug": "drowzee",
+    "id": "96"
+  },
+  {
+    "name": "Hypno",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/097.png",
+    "weight": "166.7",
+    "height": "63",
+    "slug": "hypno",
+    "id": "97"
+  },
+  {
+    "name": "Exeggcute",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/102.png",
+    "weight": "5.5",
+    "height": "16",
+    "slug": "exeggcute",
+    "id": "102"
+  },
+  {
+    "name": "Exeggutor",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/103.png",
+    "weight": "264.6",
+    "height": "79",
+    "slug": "exeggutor",
+    "id": "103"
+  },
+  {
+    "name": "Starmie",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/121.png",
+    "weight": "176.4",
+    "height": "43",
+    "slug": "starmie",
+    "id": "121"
+  },
+  {
+    "name": "Mr. Mime",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/122.png",
+    "weight": "125.2",
+    "height": "55",
+    "slug": "mr-mime",
+    "id": "122"
+  },
+  {
+    "name": "Jynx",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/124.png",
+    "weight": "89.5",
+    "height": "55",
+    "slug": "jynx",
+    "id": "124"
+  },
+  {
+    "name": "Articuno",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/144.png",
+    "weight": "112.2",
+    "height": "67",
+    "slug": "articuno",
+    "id": "144"
+  },
+  {
+    "name": "Mewtwo",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/150.png",
+    "weight": "72.8",
+    "height": "59",
+    "slug": "mewtwo",
+    "id": "150"
+  },
+  {
+    "name": "Mew",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/151.png",
+    "weight": "8.8",
+    "height": "16",
+    "slug": "mew",
+    "id": "151"
+  },
+  {
+    "name": "Natu",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/177.png",
+    "weight": "4.4",
+    "height": "8",
+    "slug": "natu",
+    "id": "177"
+  },
+  {
+    "name": "Xatu",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/178.png",
+    "weight": "33.1",
+    "height": "59",
+    "slug": "xatu",
+    "id": "178"
+  },
+  {
+    "name": "Espeon",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/196.png",
+    "weight": "58.4",
+    "height": "35",
+    "slug": "espeon",
+    "id": "196"
+  },
+  {
+    "name": "Slowking",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/199.png",
+    "weight": "175.3",
+    "height": "71",
+    "slug": "slowking",
+    "id": "199"
+  },
+  {
+    "name": "Unown",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/201.png",
+    "weight": "11",
+    "height": "20",
+    "slug": "unown",
+    "id": "201"
+  },
+  {
+    "name": "Wobbuffet",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/202.png",
+    "weight": "62.8",
+    "height": "51",
+    "slug": "wobbuffet",
+    "id": "202"
+  },
+  {
+    "name": "Girafarig",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/203.png",
+    "weight": "91.5",
+    "height": "59",
+    "slug": "girafarig",
+    "id": "203"
+  },
+  {
+    "name": "Smoochum",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/238.png",
+    "weight": "13.2",
+    "height": "16",
+    "slug": "smoochum",
+    "id": "238"
+  },
+  {
+    "name": "Lugia",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/249.png",
+    "weight": "476.2",
+    "height": "205",
+    "slug": "lugia",
+    "id": "249"
+  },
+  {
+    "name": "Celebi",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/251.png",
+    "weight": "11",
+    "height": "24",
+    "slug": "celebi",
+    "id": "251"
+  },
+  {
+    "name": "Ralts",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/280.png",
+    "weight": "14.6",
+    "height": "16",
+    "slug": "ralts",
+    "id": "280"
+  },
+  {
+    "name": "Kirlia",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/281.png",
+    "weight": "44.5",
+    "height": "31",
+    "slug": "kirlia",
+    "id": "281"
+  },
+  {
+    "name": "Gardevoir",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/282.png",
+    "weight": "106.7",
+    "height": "63",
+    "slug": "gardevoir",
+    "id": "282"
+  },
+  {
+    "name": "Meditite",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/307.png",
+    "weight": "24.7",
+    "height": "24",
+    "slug": "meditite",
+    "id": "307"
+  },
+  {
+    "name": "Medicham",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/308.png",
+    "weight": "69.4",
+    "height": "51",
+    "slug": "medicham",
+    "id": "308"
+  },
+  {
+    "name": "Spoink",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/325.png",
+    "weight": "67.5",
+    "height": "28",
+    "slug": "spoink",
+    "id": "325"
+  },
+  {
+    "name": "Grumpig",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/326.png",
+    "weight": "157.6",
+    "height": "35",
+    "slug": "grumpig",
+    "id": "326"
+  },
+  {
+    "name": "Lunatone",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/337.png",
+    "weight": "370.4",
+    "height": "39",
+    "slug": "lunatone",
+    "id": "337"
+  },
+  {
+    "name": "Solrock",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/338.png",
+    "weight": "339.5",
+    "height": "47",
+    "slug": "solrock",
+    "id": "338"
+  },
+  {
+    "name": "Baltoy",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/343.png",
+    "weight": "47.4",
+    "height": "20",
+    "slug": "baltoy",
+    "id": "343"
+  },
+  {
+    "name": "Claydol",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/344.png",
+    "weight": "238.1",
+    "height": "59",
+    "slug": "claydol",
+    "id": "344"
+  },
+  {
+    "name": "Chimecho",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/358.png",
+    "weight": "2.2",
+    "height": "24",
+    "slug": "chimecho",
+    "id": "358"
+  },
+  {
+    "name": "Wynaut",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/360.png",
+    "weight": "30.9",
+    "height": "24",
+    "slug": "wynaut",
+    "id": "360"
+  },
+  {
+    "name": "Beldum",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/374.png",
+    "weight": "209.9",
+    "height": "24",
+    "slug": "beldum",
+    "id": "374"
+  },
+  {
+    "name": "Metang",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/375.png",
+    "weight": "446.4",
+    "height": "47",
+    "slug": "metang",
+    "id": "375"
+  },
+  {
+    "name": "Metagross",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/376.png",
+    "weight": "2078.7",
+    "height": "98",
+    "slug": "metagross",
+    "id": "376"
+  },
+  {
+    "name": "Latias",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/380.png",
+    "weight": "114.6",
+    "height": "71",
+    "slug": "latias",
+    "id": "380"
+  },
+  {
+    "name": "Latios",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/381.png",
+    "weight": "154.3",
+    "height": "91",
+    "slug": "latios",
+    "id": "381"
+  },
+  {
+    "name": "Jirachi",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/385.png",
+    "weight": "2.4",
+    "height": "12",
+    "slug": "jirachi",
+    "id": "385"
+  },
+  {
+    "name": "Deoxys",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/386.png",
+    "weight": "134",
+    "height": "67",
+    "slug": "deoxys",
+    "id": "386"
+  },
+  {
+    "name": "Chingling",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/433.png",
+    "weight": "1.3",
+    "height": "8",
+    "slug": "chingling",
+    "id": "433"
+  },
+  {
+    "name": "Bronzor",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/436.png",
+    "weight": "133.4",
+    "height": "20",
+    "slug": "bronzor",
+    "id": "436"
+  },
+  {
+    "name": "Bronzong",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/437.png",
+    "weight": "412.3",
+    "height": "51",
+    "slug": "bronzong",
+    "id": "437"
+  },
+  {
+    "name": "Mime Jr.",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/439.png",
+    "weight": "28.7",
+    "height": "24",
+    "slug": "mime-jr",
+    "id": "439"
+  },
+  {
+    "name": "Gallade",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/475.png",
+    "weight": "124.3",
+    "height": "63",
+    "slug": "gallade",
+    "id": "475"
+  },
+  {
+    "name": "Uxie",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/480.png",
+    "weight": "0.7",
+    "height": "12",
+    "slug": "uxie",
+    "id": "480"
+  },
+  {
+    "name": "Mesprit",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/481.png",
+    "weight": "0.7",
+    "height": "12",
+    "slug": "mesprit",
+    "id": "481"
+  },
+  {
+    "name": "Azelf",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/482.png",
+    "weight": "0.7",
+    "height": "12",
+    "slug": "azelf",
+    "id": "482"
+  },
+  {
+    "name": "Cresselia",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/488.png",
+    "weight": "188.7",
+    "height": "59",
+    "slug": "cresselia",
+    "id": "488"
+  },
+  {
+    "name": "Victini",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/494.png",
+    "weight": "8.8",
+    "height": "16",
+    "slug": "victini",
+    "id": "494"
+  },
+  {
+    "name": "Munna",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/517.png",
+    "weight": "51.4",
+    "height": "24",
+    "slug": "munna",
+    "id": "517"
+  },
+  {
+    "name": "Musharna",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/518.png",
+    "weight": "133.4",
+    "height": "43",
+    "slug": "musharna",
+    "id": "518"
+  },
+  {
+    "name": "Woobat",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/527.png",
+    "weight": "4.6",
+    "height": "16",
+    "slug": "woobat",
+    "id": "527"
+  },
+  {
+    "name": "Swoobat",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/528.png",
+    "weight": "23.1",
+    "height": "35",
+    "slug": "swoobat",
+    "id": "528"
+  },
+  {
+    "name": "Sigilyph",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/561.png",
+    "weight": "30.9",
+    "height": "55",
+    "slug": "sigilyph",
+    "id": "561"
+  },
+  {
+    "name": "Gothita",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/574.png",
+    "weight": "12.8",
+    "height": "16",
+    "slug": "gothita",
+    "id": "574"
+  },
+  {
+    "name": "Gothorita",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/575.png",
+    "weight": "39.7",
+    "height": "28",
+    "slug": "gothorita",
+    "id": "575"
+  },
+  {
+    "name": "Gothitelle",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/576.png",
+    "weight": "97",
+    "height": "59",
+    "slug": "gothitelle",
+    "id": "576"
+  },
+  {
+    "name": "Solosis",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/577.png",
+    "weight": "2.2",
+    "height": "12",
+    "slug": "solosis",
+    "id": "577"
+  },
+  {
+    "name": "Duosion",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/578.png",
+    "weight": "17.6",
+    "height": "24",
+    "slug": "duosion",
+    "id": "578"
+  },
+  {
+    "name": "Reuniclus",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/579.png",
+    "weight": "44.3",
+    "height": "39",
+    "slug": "reuniclus",
+    "id": "579"
+  },
+  {
+    "name": "Elgyem",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/605.png",
+    "weight": "19.8",
+    "height": "20",
+    "slug": "elgyem",
+    "id": "605"
+  },
+  {
+    "name": "Beheeyem",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/606.png",
+    "weight": "76.1",
+    "height": "39",
+    "slug": "beheeyem",
+    "id": "606"
+  },
+  {
+    "name": "Braviary",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/628.png",
+    "weight": "95.7",
+    "height": "67",
+    "slug": "braviary",
+    "id": "628"
+  },
+  {
+    "name": "Meloetta",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/648.png",
+    "weight": "14.3",
+    "height": "24",
+    "slug": "meloetta",
+    "id": "648"
+  },
+  {
+    "name": "Delphox",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/655.png",
+    "weight": "86",
+    "height": "59",
+    "slug": "delphox",
+    "id": "655"
+  },
+  {
+    "name": "Espurr",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/677.png",
+    "weight": "7.7",
+    "height": "12",
+    "slug": "espurr",
+    "id": "677"
+  },
+  {
+    "name": "Meowstic",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/678.png",
+    "weight": "18.7",
+    "height": "24",
+    "slug": "meowstic",
+    "id": "678"
+  },
+  {
+    "name": "Inkay",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/686.png",
+    "weight": "7.7",
+    "height": "16",
+    "slug": "inkay",
+    "id": "686"
+  },
+  {
+    "name": "Malamar",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/687.png",
+    "weight": "103.6",
+    "height": "59",
+    "slug": "malamar",
+    "id": "687"
+  },
+  {
+    "name": "Hoopa",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/720.png",
+    "weight": "1080.3",
+    "height": "256",
+    "slug": "hoopa",
+    "id": "720"
+  },
+  {
+    "name": "Oricorio",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/741.png",
+    "weight": "7.5",
+    "height": "24",
+    "slug": "oricorio",
+    "id": "741"
+  },
+  {
+    "name": "Oranguru",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/765.png",
+    "weight": "167.6",
+    "height": "59",
+    "slug": "oranguru",
+    "id": "765"
+  },
+  {
+    "name": "Bruxish",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/779.png",
+    "weight": "41.9",
+    "height": "35",
+    "slug": "bruxish",
+    "id": "779"
+  },
+  {
+    "name": "Tapu Lele",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/786.png",
+    "weight": "41",
+    "height": "47",
+    "slug": "tapu-lele",
+    "id": "786"
+  },
+  {
+    "name": "Cosmog",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/789.png",
+    "weight": "0.2",
+    "height": "8",
+    "slug": "cosmog",
+    "id": "789"
+  },
+  {
+    "name": "Cosmoem",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/790.png",
+    "weight": "2204.4",
+    "height": "4",
+    "slug": "cosmoem",
+    "id": "790"
+  },
+  {
+    "name": "Solgaleo",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/791.png",
+    "weight": "507.1",
+    "height": "134",
+    "slug": "solgaleo",
+    "id": "791"
+  },
+  {
+    "name": "Lunala",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/792.png",
+    "weight": "264.6",
+    "height": "157",
+    "slug": "lunala",
+    "id": "792"
+  },
+  {
+    "name": "Necrozma",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/800.png",
+    "weight": "507.1",
+    "height": "295",
+    "slug": "necrozma",
+    "id": "800"
+  },
+  {
+    "name": "Dottler",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/825.png",
+    "weight": "43",
+    "height": "16",
+    "slug": "dottler",
+    "id": "825"
+  },
+  {
+    "name": "Orbeetle",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/826.png",
+    "weight": "9999",
+    "height": "551",
+    "slug": "orbeetle",
+    "id": "826"
+  },
+  {
+    "name": "Hatenna",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/856.png",
+    "weight": "7.5",
+    "height": "16",
+    "slug": "hatenna",
+    "id": "856"
+  },
+  {
+    "name": "Hattrem",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/857.png",
+    "weight": "10.6",
+    "height": "24",
+    "slug": "hattrem",
+    "id": "857"
+  },
+  {
+    "name": "Hatterene",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/858.png",
+    "weight": "9999",
+    "height": "1024",
+    "slug": "hatterene",
+    "id": "858"
+  },
+  {
+    "name": "Mr. Rime",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/866.png",
+    "weight": "128.3",
+    "height": "59",
+    "slug": "mr-rime",
+    "id": "866"
+  },
+  {
+    "name": "Indeedee",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/876.png",
+    "weight": "61.7",
+    "height": "35",
+    "slug": "indeedee",
+    "id": "876"
+  },
+  {
+    "name": "Calyrex",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/898.png",
+    "weight": "118.2",
+    "height": "94",
+    "slug": "calyrex",
+    "id": "898"
+  },
+  {
+    "name": "Wyrdeer",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/899.png",
+    "weight": "209.7",
+    "height": "71",
+    "slug": "wyrdeer",
+    "id": "899"
+  },
+  {
+    "name": "Armarouge",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/936.png",
+    "weight": "187.4",
+    "height": "59",
+    "slug": "armarouge",
+    "id": "936"
+  },
+  {
+    "name": "Rabsca",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/954.png",
+    "weight": "7.7",
+    "height": "12",
+    "slug": "rabsca",
+    "id": "954"
+  },
+  {
+    "name": "Flittle",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/955.png",
+    "weight": "3.3",
+    "height": "8",
+    "slug": "flittle",
+    "id": "955"
+  },
+  {
+    "name": "Espathra",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/956.png",
+    "weight": "198.4",
+    "height": "75",
+    "slug": "espathra",
+    "id": "956"
+  },
+  {
+    "name": "Veluza",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/976.png",
+    "weight": "198.4",
+    "height": "98",
+    "slug": "veluza",
+    "id": "976"
+  },
+  {
+    "name": "Farigiraf",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/981.png",
+    "weight": "352.7",
+    "height": "126",
+    "slug": "farigiraf",
+    "id": "981"
+  },
+  {
+    "name": "Scream Tail",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/985.png",
+    "weight": "17.6",
+    "height": "47",
+    "slug": "scream-tail",
+    "id": "985"
+  },
+  {
+    "name": "Iron Leaves",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/1010.png",
+    "weight": "275.6",
+    "height": "59",
+    "slug": "iron-leaves",
+    "id": "1010"
+  },
+  {
+    "name": "Munkidori",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/1015.png",
+    "weight": "26.9",
+    "height": "39",
+    "slug": "munkidori",
+    "id": "1015"
+  },
+  {
+    "name": "Iron Boulder",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/1022.png",
+    "weight": "358.3",
+    "height": "59",
+    "slug": "iron-boulder",
+    "id": "1022"
+  },
+  {
+    "name": "Iron Crown",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/1023.png",
+    "weight": "343.9",
+    "height": "63",
+    "slug": "iron-crown",
+    "id": "1023"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "title": "grass",
+    "count": "130"
+  },
+  {
+    "title": "poison",
+    "count": "87"
+  },
+  {
+    "title": "fire",
+    "count": "86"
+  },
+  {
+    "title": "flying",
+    "count": "112"
+  },
+  {
+    "title": "dragon",
+    "count": "75"
+  },
+  {
+    "title": "water",
+    "count": "158"
+  },
+  {
+    "title": "bug",
+    "count": "92"
+  },
+  {
+    "title": "normal",
+    "count": "133"
+  },
+  {
+    "title": "dark",
+    "count": "82"
+  },
+  {
+    "title": "electric",
+    "count": "73"
+  },
+  {
+    "title": "psychic",
+    "count": "108"
+  },
+  {
+    "title": "ice",
+    "count": "57"
+  },
+  {
+    "title": "steel",
+    "count": "77"
+  },
+  {
+    "title": "ground",
+    "count": "77"
+  },
+  {
+    "title": "fairy",
+    "count": "69"
+  },
+  {
+    "title": "fighting",
+    "count": "82"
+  },
+  {
+    "title": "rock",
+    "count": "78"
+  },
+  {
+    "title": "ghost",
+    "count": "73"
+  }
+]
